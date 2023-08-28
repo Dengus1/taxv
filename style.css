@@ -1,0 +1,87 @@
+body{
+    font-family: Arial;
+    color: white;
+    text-shadow: 1px 1px 4px #bababa;
+    width: 100vw;
+    height: 100vw;
+    background: linear-gradient(to top,#313131,#0a0a0a);
+}
+section,
+header {
+    color: white; 
+    text-shadow: 1px 1px 4px #bababa;
+    padding: 100px 60px 140px 60px;
+    width: 960px;
+    margin: 0 auto;
+    text-align: center;
+
+}   
+a {
+    color: #bababa;
+    font-weight: bold  ;
+}
+header img {
+    width: 180px;
+    height: 180px;
+    margin: 0 auto;
+    display: block;
+    border-radius: 50%;
+}
+.ikony {
+    background-color: white;
+    margin-right: 1px;
+    padding: 4px;
+    border-radius: 50%;
+}
+.skiny{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    margin: 0 auto;
+}
+
+.skin1 {
+    margin: 0 auto;
+}
+.skin2 {
+    margin: 0 auto;
+}
+.skin3 {
+    margin: 0 auto;
+}
+.skin4 {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin: 0 auto;
+}
+
+.kevcio {
+    text-align: center;
+    width: 33%;
+    float: left;
+}
+.pavlutek {
+    text-align: center;
+    width: 33%;
+    float: left
+
+}
+.dabek {
+    text-align: center;
+    width: 33%;
+    float: left;
+}
+.dengus {
+    text-align: center;
+    width: 33%;
+    margin: 0 auto;
+}
+.linklider {
+    color: white;
+}
+.opis{
+    text-align: center;
+    width: 66%;
+    margin: 0 auto;
+}
